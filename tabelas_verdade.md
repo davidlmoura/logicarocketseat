@@ -1,4 +1,4 @@
-# Tabelas Verdade
+# Desafio Prático - Prática - Conectivos Lógicos (RocketSeat)
 
 ### 1. `p ∧ q`
 
