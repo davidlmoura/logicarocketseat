@@ -1,0 +1,16 @@
+print('Vamos criar uma história maluca! 😄✨')
+print('Vou te pedir 6 palavras. Pronto? Vamos lá!')
+
+lugar = input('Diga um lugar: ')
+pessoa = input('Diga o nome de uma pessoa famosa: ')
+objeto = input('Diga um objeto: ')
+cor = input('Diga uma cor: ')
+verbo = input('Diga um verbo no infinitivo: ')
+numero = input('Diga um número: ')
+
+print()
+print('📝 Sua história maluca ficou assim:')
+print()
+print(f'Um dia, no(a) {lugar}, encontrei o(a) {pessoa} segurando um(a) {objeto} {cor}.')
+print(f'Do nada, ele(a) começou a {verbo} sem parar, e isso durou por {numero} horas! 😱')
+print('Foi o dia mais estranho da minha vida... 😂')
